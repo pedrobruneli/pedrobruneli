@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey! :vulcan_salute:, I'm Pedro Bruneli :computer:</h1>
+  <h1>Hey, I'm Pedro Bruneli :computer:</h1>
 </div>
 
 ### I'm a tech enthusiast
