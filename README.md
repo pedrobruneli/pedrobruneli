@@ -4,9 +4,9 @@
 
 ### I'm a tech enthusiast
 
-- 😃 I'm a backend focused developer.
-- 📖 I'm currently studying Java, SpringBoot and React.js.
-- 🏢 I'm currently unemployed and available for the first job.
+- 😃 I'm a fullstack developer.
+- 📖 I'm currently studying Angular, Ionic, NodeJS and Firebase
+- 🏢 I'm currently a fullstack developer intern for grupo safira
   
 <div align="center">
   <img height=180px src="https://github-readme-stats.vercel.app/api?username=pedrobruneli&show_icons=true&theme=merko">
@@ -28,5 +28,9 @@
 <div align="center">
   <h2>Technologies</h2>
   <img align="center" alt="react" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="angular" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
+  <img align="center" alt="ionic" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
+  <img align="center" alt="firebase" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg">
+  <img align="center" alt="nodejs" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="ps" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
