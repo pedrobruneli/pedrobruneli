@@ -9,8 +9,8 @@
 - 🏢 I'm currently a fullstack developer intern for grupo safira
   
 <div align="center">
-  <img height=180px src="https://github-readme-stats.vercel.app/api?username=pedrobruneli&show_icons=true&theme=merko">
-  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobruneli&layout=compact&theme=merko">
+  <img src="https://raw.githubusercontent.com/pedrobruneli/GitStats/actions_branch/generated_images/overviewDarkMode.svg">
+  <img src="https://raw.githubusercontent.com/pedrobruneli/GitStats/actions_branch/generated_images/languagesDarkMode.svg">
 </div><br>
 
 <p align="center">
