@@ -7,11 +7,7 @@
 - 😃 I'm a fullstack developer.
 - 📖 I'm currently studying Angular, Ionic, NodeJS and Firebase
 - 🏢 I'm currently a fullstack developer intern for grupo safira
-  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pedrobruneli/GitStats/actions_branch/generated_images/overviewDarkMode.svg">
-  <img src="https://raw.githubusercontent.com/pedrobruneli/GitStats/actions_branch/generated_images/languagesDarkMode.svg">
-</div><br>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrobruneli/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
