@@ -6,7 +6,7 @@
 
 - 😃 I'm a fullstack developer.
 - 📖 I'm currently studying Angular, Ionic, NodeJS and Firebase
-- 🏢 I'm currently a fullstack developer intern for grupo safira
+- 🏢 I'm currently a fullstack developer for grupo safira
 
 
 <p align="center">
