@@ -31,3 +31,4 @@
   <img align="center" alt="nodejs" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="ps" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
+![Snake](https://github.com/pedrobruneli/pedrobruneli/blob/output/github-contribution-grid-snake.svg)
