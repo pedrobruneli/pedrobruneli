@@ -34,8 +34,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrobruneli/pedrobruneli/1f449c9e185158d3f9daaf54162fe777771555f1/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrobruneli/pedrobruneli/1f449c9e185158d3f9daaf54162fe777771555f1/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/pedrobruneli/pedrobruneli/1f449c9e185158d3f9daaf54162fe777771555f1/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrobruneli/pedrobruneli/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrobruneli/pedrobruneli/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/pedrobruneli/pedrobruneli/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
