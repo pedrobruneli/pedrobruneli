@@ -5,8 +5,8 @@
 ### I'm a tech enthusiast
 
 - 😃 I'm a fullstack developer.
-- 📖 I'm currently studying Angular, Ionic, NodeJS and Firebase
-- 🏢 I'm currently a fullstack developer for grupo safira
+- 📖 I'm currently working with .NET, React, AWS, K8S, Mongo, Postgres, SQL Server and Azure DevOps.
+- 🏢 I'm currently a fullstack developer for BTG Pactual.
 
 
 <p align="center">
@@ -16,20 +16,28 @@
 
 <div align="center">
   <h2>Programming Languages</h2>
-  <img align="center" alt="HTML" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="c#" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="TYPESCRIPT" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="JAVA" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
 </div>
 <div align="center">
   <h2>Technologies</h2>
+  <img align="center" alt="dotnet" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="react" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="aws" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="angular" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="ionic" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
   <img align="center" alt="nestjs" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="firebase" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="nodejs" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="ps" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+</div>
+<div align="center">
+  <h2>Databases</h2>
+  <img align="center" alt="postgres" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="mongodb" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="dynamodb" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg">
+  <img align="center" alt="redis" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+  <img align="center" alt="sqlserver" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img align="center" alt="firebase" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
 </div>
 
 <div align="center">
