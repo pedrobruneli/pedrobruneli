@@ -19,6 +19,7 @@
   <img align="center" alt="c#" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="TYPESCRIPT" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="JAVA" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  <img align="center" alt="GOLANG" height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 </div>
 <div align="center">
   <h2>Technologies</h2>
