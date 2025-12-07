@@ -6,7 +6,7 @@
 
 - 😃 I'm a fullstack developer.
 - 📖 I'm currently working with .NET, React, AWS, K8S, Mongo, Postgres, SQL Server and Azure DevOps.
-- 🏢 I'm currently a fullstack developer for Itau Unibanco.
+- 🏢 I'm currently a fullstack developer for Uber.
 
 
 <p align="center">
